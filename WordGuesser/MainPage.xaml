@@ -4,7 +4,7 @@
              x:Class="WordGuesser.MainPage">
 
     <StackLayout Padding="10">
-        <Frame BackgroundColor="DeepPink" Padding="24" CornerRadius="0">
+        <Frame BackgroundColor="LightPink" Padding="24" CornerRadius="0">
             <Label Text="Guess the 5-letter word!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
         <StackLayout Margin="20" Orientation="Horizontal" HorizontalOptions="Center" Spacing="5">
