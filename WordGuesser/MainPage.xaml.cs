@@ -80,7 +80,7 @@ namespace WordGuesser
                     {
                         new Frame
                         {
-                            BackgroundColor=Color.DeepPink,
+                            BackgroundColor=Color.LightPink,
                             Padding= new Thickness(24),
                             CornerRadius=0,
                             Content = new StackLayout
